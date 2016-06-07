@@ -1,0 +1,507 @@
+/*===================================================
+					GLOBAL
+====================================================*/
+
+.contraste a{
+	color: yellow;
+}
+
+.contraste a:hover{
+	color: #edf731;
+}
+
+body.contraste{
+	background-color: black !important;
+	color: white !important;
+}
+
+/*===========================================================
+                            HEADER
+===========================================================*/
+
+
+.contraste .header-image {
+    background: url([[pix:pioneer|headerbackgroundAC]]);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+}
+
+.contraste .fpcustomnav-container{
+	background-color: black !important;
+	color: white !important;
+}
+
+.contraste #nav-Bar {
+	background-color: black !important;
+	color: white !important;
+	border-bottom: 1px solid white;
+}
+
+.contraste .page-context-header{
+	background-color: black !important;
+}
+
+.contraste h1{
+	color: white !important;
+}
+
+.contraste h1{
+	color: white !important;
+}
+.contraste h2{
+	color: white !important;
+}
+.contraste h3{
+	color: white !important;
+}
+.contraste h4{
+	color: white !important;
+}
+.contraste h5{
+	color: white !important;
+}
+
+.contraste .breadcrumb-nav{
+	background-color: black !important;
+	border: 1px solid #fff;
+}
+
+.contraste .breadcrumb-nav li{
+	background-color: black !important;
+	border: 1px solid #fff;
+}
+
+.contraste .row{
+	border: 1px solid #fff;
+}
+
+
+.contraste .block .header{
+	background-color: #383838 !important;
+}
+.contraste .brand{
+	color: yellow !important;
+	    text-shadow: 0 1px 0 yellow;
+}
+
+.contraste #block{
+	background-color: black !important;
+}
+
+.contraste .panel-default > .panel-heading{
+	background-color: black !important;
+	border: 1px solid #fff;
+}
+
+/*bota pesquisar*/
+.contraste .btn-primary{
+	border: 1px solid #fff;
+	background-color: black !important;
+}
+
+.contraste ul#acessibilidade li{
+	background-color: black !important;
+}
+
+.contraste ul#acessibilidade li a{
+    color: white !important;
+}
+
+.contraste div#breadcrumb-container {
+    background-color: black !important;
+    border:1px solid white;
+}
+
+.contraste .breadcrumb li a{
+	color: yellow !important;
+}
+
+.contraste #navlist{
+  border: 1px solid #FFF;
+}
+
+.contraste li a.myhome,
+.contraste li a.log,
+.contraste li a.myp,
+.contraste li a.mail,
+.contraste li a.myf,
+.contraste li a.cal,
+.contraste li a.my {
+    background-color: black !important;
+    color: yellow !important;
+    border: 1px solid white !important;
+}
+
+
+.contraste #page-content{
+	background-color: black !important;
+}
+
+.contraste section#region-main .block_course_overview {
+	background-color: black !important;
+	color: white !important;
+	border: 1px solid white;
+}
+
+.contraste.jsenabled .block .header h2{
+	color: white !important;
+}
+
+
+/*MENU USUARIO*/
+
+.contraste .moodle-actionmenu[data-enhanced].show .menu{
+	background-color: black !important;
+	border:1px solid white;
+}
+
+.contraste .moodle-actionmenu[data-enhanced].show .menu a{
+	color: white !important;
+}
+
+/*=============================================================
+							CURSOS
+==============================================================*/
+
+.contraste #region-main{
+	border: white !important;
+}
+
+.contraste .courses .coursebox.even {
+    background: black !important;
+}
+
+.contraste .courses .coursebox:hover,
+.course_category_tree .courses > .paging.paging-morelink:hover {
+    background: #404040;
+    color: white !important;
+}
+
+/*=============================================================
+							BLOCKS
+==============================================================*/
+
+.contraste .block{
+	background-color: black !important;
+	color: white !important;
+	border:1px solid white;
+}
+
+.contraste .block_navigation .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+
+.contraste .block_news_items .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_navigation .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_calendar_upcoming .header .title h2:before{
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste.block_calendar_month .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_course_list .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_completionstatus .header .title h2:before,
+.block_selfcompletion .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_rss_client .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_rss_plus .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_blog_menu .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_quiz_results .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_quiz_navblock .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_glossary_random .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_book_toc .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+
+.contraste .block_participants .header .title h2:before{
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_online_users .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_html .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+.contraste .block_section_links .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_activity_modules .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_comments .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_settings .header .title h2:before,
+.block_admin_bookmarks .header .title h2:before{
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_blog_tags .header .title h2:before,
+.block_tags .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_private_files .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_block_mentees .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_messages .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_community .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_login .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_recent_activity .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_search_forums .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_myprofile .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_adminblock .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_feedback .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_flickr .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_youtube .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_course_badges .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_twitter_search .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_heritage .header .title h2:before {
+    bbackground-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_lrc .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+}
+
+.contraste .block_badges .header .title h2:before {
+    background-color: white !important;
+    color: black !important;
+
+}
+
+/*=============================================================================
+ BOTAO
+=============================================================================*/
+.contraste .btn-success {
+	background-color: black !important;
+}
+/*===============================================================================
+
+==============================================================================*/
+.contraste .coursebox>.info>.coursename a {
+    color: white !important;
+}
+
+.contraste .coursebox {
+    border: 1px solid #000;
+    background-color: #383838 !important
+}
+
+.contraste .course-content ul.topics li.section {
+  background-color: #000 !important;
+	color: #fff !important;
+	border: 1px solid #fff;
+}
+
+.contraste .course-content ul.weeks li.section {
+
+	background-color: #404040  !important;
+	color: yellow !important;
+	border: 1px solid #fff;
+}
+
+.contraste .forumheaderlist{
+		background-color: #404040  !important;
+}
+
+.contraste .path-mod-forum .forumheaderlist {
+	background-color: #000  !important;
+}
+
+.contraste span{
+	color: #fff !important;
+}
+
+.contraste .que .formulation{
+	background-color: black !important;
+}
+
+.contraste .que .info {
+	background-color: black !important;
+}
+
+.contraste .qnbutton.notyetanswered{
+	background-color: black !important;
+}
+
+/*=============================================================
+                    FORMULARIO login
+==============================================================*/
+
+
+.contraste .login-body {
+	background-color: black !important;
+}
+
+.contraste .login-form {
+	background-color: black !important;
+}
+
+/*=============================================================
+                    FONT AWESOME
+==============================================================*/
+
+
+/*.contraste .fa-user:before {
+    background-color:
+}*/
+
+/*=============================================================
+                    FORMULARIO DE COMENTARIO
+==============================================================*/
+
+.contraste .forumpost {
+    background-color: black !important;
+}
+
+/*=============================================================
+							FOOTER
+==============================================================*/
+.contraste .bottom-base{
+	background-color: black !important;
+	border:1px solid white;
+}
+
+.contraste .helplink a{
+	color: yellow !important;
+}
