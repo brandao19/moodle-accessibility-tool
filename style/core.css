@@ -1,0 +1,38 @@
+/** Background color is a setting **/
+/*html {background-color:[[setting:backgroundcolor]];}
+body {margin:30px;padding:0;border:1px solid #333;border-width:0 10px 0 10px;background-color:#333;}
+body #page {background-color:#FFF;position:relative;top:-10px;}
+.block .header {background-image:none;background-color:#0C5CAC;border:1px solid #0C5CAC;color:#FFF;}
+.block {border-color:#4BA7FF;background-color:#DDEEFF;}
+.block .content {background-color:#F1F8FF;}
+a:link,
+a:visited {color:#0C5CAC;}
+a:hover {color:#C77500;}
+#page #page-header {background-color:#0C5CAC;margin:0;padding:0;width:100%;color:#fff;}
+#page #page-header a:link, #page #page-header a:visited {color:#FFAC02}
+#page #page-header .navbar, #page #page-header .navbar a:link, #page #page-header .navbar a:visited {color:#0C5CAC;}
+/** Override the region width **/
+/*#page-content #region-main-box {left:[[setting:regionwidth]];}
+#page-content #region-main-box #region-post-box {margin-left:-[[setting:regionwidthdouble]];}
+#page-content #region-main-box #region-post-box #region-pre {width:[[setting:regionwidth]];left:[[setting:regionwidth]];}
+#page-content #region-main-box #region-post-box #region-post {width:[[setting:regionwidth]];}
+#page-content #region-main-box #region-post-box #region-main-wrap #region-main {margin-left:[[setting:regionwidthdouble]];}
+.side-pre-only #page-content #region-main-box #region-post-box {margin-left:-[[setting:regionwidth]];}
+.side-pre-only #page-content #region-main-box #region-post-box #region-main-wrap #region-main {margin-left:[[setting:regionwidth]];}
+.side-post-only #page-content #region-main-box #region-post-box {margin-left:-[[setting:regionwidth]];}
+.side-post-only #page-content #region-main-box #region-post-box #region-main-wrap #region-main {margin-left:[[setting:regionwidth]];}
+/** Custom CSS **/
+[[setting:customcss]]
+
+
+/*==============================================================================
+                  MENU ACESSIBILIDADE
+================================================================================*/
+
+li.decreaseFont, li.normalFont,
+li.increaseFont, li.AltoContraste{
+    background-color: #006762;
+    color: #000000;
+    text-decoration: none;
+
+}
